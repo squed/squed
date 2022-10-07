@@ -24,6 +24,7 @@ Some recent articles:
 - [Hello World](https://mawi-home.gitlab.io/mattwilce/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/squed/squed">
@@ -36,7 +37,7 @@ Some recent articles:
 <a href="https://github.com/squed/gcp-demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=squed&repo=gcp-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
+-->
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
