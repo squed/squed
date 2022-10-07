@@ -1,6 +1,8 @@
 # Welcome to my profile!
 
-My name is Matt Wilce and I'm a DevOps evangelist working as a Senior Platform Engineer. I live and work in Kent, UK. You can find me on [LinkedIn][2].
+My name is Matt Wilce and I'm a DevOps evangelist working as a Senior Platform Engineer. I live and work in Kent, UK.<br>  
+
+You can find me on [LinkedIn][2]
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -16,7 +18,7 @@ My name is Matt Wilce and I'm a DevOps evangelist working as a Senior Platform E
 
 ## Docs & Blog 
 
-You can view my gitlab page [HERE](https://mawi-home.gitlab.io/mattwilce/) 
+You can view my docusaurus site [HERE](https://mawi-home.gitlab.io/mattwilce/) 
 
 Some recent articles:
 
